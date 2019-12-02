@@ -1,0 +1,111 @@
+{
+  "group-list": [
+    "???",
+    "gold",
+    "claw",
+    "no",
+    "stone",
+    "diamond",
+    "bombBarrel",
+    "pig"
+  ],
+  "collision-matrix": [
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      null,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  ],
+  "excluded-modules": [],
+  "last-module-event-record-time": 1575031505378,
+  "design-resolution-width": 720,
+  "design-resolution-height": 960,
+  "fit-width": true,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "start-scene": "428b04bb-393c-498b-bc66-cf93f2204f0b"
+}

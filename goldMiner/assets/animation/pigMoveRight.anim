@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pigMoveRight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d4697f72-ace9-4ddb-a4bf-2526b4aa494f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "ebac0126-d736-452f-a128-924c6e269c17"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d17d7f54-40d1-4040-a809-b8d42f954050"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "4e193aaa-1c35-452a-b0cc-fdd1c29beb0c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

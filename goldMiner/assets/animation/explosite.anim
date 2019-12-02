@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "explosite",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 240,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "15575a32-f7b6-478d-96e6-8a0bdc53c860"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "3373227f-6c0b-47c6-b178-d093a43ad766"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0.041666666666666664,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 3,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.375,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 6,
+            "y": 2
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.375,
+      "func": "explositeEnd",
+      "params": []
+    }
+  ]
+}
